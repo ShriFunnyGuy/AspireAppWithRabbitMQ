@@ -1,0 +1,6 @@
+@AspireAppWithRabbitMG.ApiService_HostAddress = http://localhost:5288
+
+GET {{AspireAppWithRabbitMG.ApiService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
