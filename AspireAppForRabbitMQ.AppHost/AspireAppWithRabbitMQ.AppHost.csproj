@@ -11,8 +11,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\AspireAppForRabbitMG.Web\AspireAppWithRabbitMQ.Web.csproj" />
-    <ProjectReference Include="..\AspireAppWithRabbitMG.ApiService\AspireAppWithRabbitMQ.ApiService.csproj" />
+    <ProjectReference Include="..\AspireAppForRabbitMQ.Web\AspireAppWithRabbitMQ.Web.csproj" />
+    <ProjectReference Include="..\AspireAppWithRabbitMQ.ApiService\AspireAppWithRabbitMQ.ApiService.csproj" />
     <ProjectReference Include="..\AspireRabbitMQConsumer\AspireRabbitMQConsumer.csproj" />
   </ItemGroup>
 

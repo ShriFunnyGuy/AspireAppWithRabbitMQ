@@ -7,8 +7,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\AspireAppForRabbitMG.ServiceDefaults\AspireAppWithRabbitMQ.ServiceDefaults.csproj" />
-    <ProjectReference Include="..\AspireAppWithRabbitMG.ApiService\AspireAppWithRabbitMQ.ApiService.csproj" />
+    <ProjectReference Include="..\AspireAppForRabbitMQ.ServiceDefaults\AspireAppWithRabbitMQ.ServiceDefaults.csproj" />
+    <ProjectReference Include="..\AspireAppWithRabbitMQ.ApiService\AspireAppWithRabbitMQ.ApiService.csproj" />
   </ItemGroup>
 
   <ItemGroup>
